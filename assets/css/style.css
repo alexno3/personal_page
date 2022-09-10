@@ -118,31 +118,31 @@
     BASE STYLE
   */
 
-  h1,
-  h2,
-  h3,
-  h4 {
+  .h1,
+  .h2,
+  .h3,
+  .h4 {
     display: block;
     color: var(--foreground-primary);
 
   }
 
-  h1 {
+  .h1 {
     font-size: var(--fs-1);
     font-weight: 900;
   }
 
-  h2 {
+  .h2 {
     font-size: var(--fs-2);
     font-weight: 700;
   }
 
-  h3 {
+  .h3 {
     font-size: var(--fs-3);
     font-weight: 700;
   }
 
-  h4 {
+  .h4 {
     font-size: var(--fs-4);
     font-weight: 700;
   }
